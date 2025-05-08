@@ -38,7 +38,20 @@ A React app that allows users to browse movies, switch between **All Movies** an
 [TMDB - The Movie Database](https://api.themoviedb.org/3/discover/movie?sort_by=popularity.desc&api_key=9813ce01a72ca1bd2ae25f091898b1c7)
 
 ## 📂 Folder Structure
-<pre><code> ```bash src/ ├── components/ │ ├── AddMovie.js │ ├── Movie.js │ └── Movies.js ├── hooks/ │ └── useTopRated.js ├── assets/ │ └── images/ (if any) ├── styles/ │ └── *.module.css └── App.js ``` </code></pre>
+```bash
+src/
+├── components/
+│   ├── AddMovie.js
+│   ├── Movie.js
+│   └── Movies.js
+├── hooks/
+│   └── useTopRated.js
+├── assets/
+│   └── images/  (if any)
+├── styles/
+│   └── *.module.css
+└── App.js
+```
 
 ## 🖼️ Screenshots
 ![TopRated](https://github.com/user-attachments/assets/09d4e1dd-4095-4024-b070-19c915bac0a3)
