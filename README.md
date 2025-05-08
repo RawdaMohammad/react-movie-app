@@ -25,12 +25,14 @@ A React app that allows users to browse movies, switch between **All Movies** an
    cd movie-explorer
 
 2. **Install dependencies**
+   ```bash
    npm install
 
 3. **Start the app**
+   ```bash
    npm start
    
-5. Open http://localhost:5173/ to view it in the browser.
+4. Open http://localhost:5173/ to view it in the browser.
 
 ## 🧪 API Used
 TMDB - The Movie Database
