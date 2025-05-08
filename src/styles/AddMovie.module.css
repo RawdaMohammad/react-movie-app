@@ -1,0 +1,29 @@
+.btn{
+    width: 200px;
+    height: 35px;
+    font-weight: bold;
+    background-color: rgba(184, 184, 184);
+    margin: 10px auto;
+    border: none;
+    border-radius: 5px;
+    color: rgb(43, 42, 43);
+    font-size: 18px;
+}
+
+.btn:hover{
+    background-color: rgb(219, 217, 217);
+}
+
+.input{
+    width:70%; 
+    margin: 5px auto; outline:none; 
+    border: 2px solid rgba(184, 184, 184, 0.78);
+    padding: 10px; 
+    border-radius: 5px; 
+    color:rgb(185, 182, 182); 
+    font-size:17px;
+}
+
+.input:focus{
+    box-shadow: 1px 1px 8px rgb(148, 148, 148);
+}

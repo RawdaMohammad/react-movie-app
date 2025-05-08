@@ -1,0 +1,43 @@
+/* .card {
+    width: 260px;
+    height: 450px;
+    border: 2px solid gray;
+    border-radius: 5px;
+    box-shadow: 1px 1px 10px rgb(93, 93, 93);
+    padding: 10px;
+    color: white;
+}
+
+.image{
+    width: 100%;
+    height: 350px;
+    object-fit: cover;
+    margin-bottom: 20px;
+}
+
+.card:hover{
+    box-shadow: 1px 1px 19px rgb(204, 203, 203);
+} */
+
+.card {
+    width: 260px;
+    height: 450px;
+    border: 2px solid gray;
+    border-radius: 5px;
+    box-shadow: 1px 1px 10px rgb(93, 93, 93);
+    padding: 10px;
+    color: white;
+    transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth animation */
+}
+
+.image {
+    width: 100%;
+    height: 350px;
+    object-fit: cover;
+    margin-bottom: 20px;
+}
+
+.card:hover {
+    box-shadow: 1px 1px 19px rgb(204, 203, 203);
+    transform: scale(1.05); /* Makes the card slightly larger */
+}
