@@ -54,5 +54,8 @@ src/
 ```
 
 ## 🖼️ Screenshots
-![TopRated](https://github.com/user-attachments/assets/09d4e1dd-4095-4024-b070-19c915bac0a3)
+#### 🎞️ All Movies
 ![AllMovies_](https://github.com/user-attachments/assets/f6e3f479-55bb-4c4f-9b9b-6b28089391de)
+
+#### ⭐ Top Rated Movies
+![TopRated](https://github.com/user-attachments/assets/09d4e1dd-4095-4024-b070-19c915bac0a3)
